@@ -1,0 +1,14 @@
+{
+  "name": "Orca Manga",
+  "baseUrl": "https://www.orcamanga.site/?m=1",
+  "catalogue": [
+    {
+      "category": "All Manga",
+      "url": "https://www.orcamanga.site/?m=1"
+    }
+  ],
+  "mangaDetails": {
+    "title": "Example Manga",
+    "url": "https://www.orcamanga.site/manga/example-manga"
+  }
+}
